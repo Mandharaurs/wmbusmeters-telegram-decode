@@ -59,23 +59,3 @@ All relevant meter data including total consumption, historical values, timestam
 This demonstrates correct handling of encrypted wM-Bus telegrams and JSON serialization of meter data.
 
 
-
----
-
-## ✅ STEP 3: Save and exit
-- Press **CTRL + O**
-- Press **Enter**
-- Press **CTRL + X**
-
----
-
-## ✅ STEP 4: Verify files
-```bash
-ls
-
-Expected output:
-
-README.md
-decoded_output.json
-telegram.txt
-
